@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testmail/static/css/main.6778b5c8.chunk.css",
-    "main.js": "/testmail/static/js/main.5317469b.chunk.js",
-    "main.js.map": "/testmail/static/js/main.5317469b.chunk.js.map",
+    "main.js": "/testmail/static/js/main.41d46c66.chunk.js",
+    "main.js.map": "/testmail/static/js/main.41d46c66.chunk.js.map",
     "runtime-main.js": "/testmail/static/js/runtime-main.cde1a45d.js",
     "runtime-main.js.map": "/testmail/static/js/runtime-main.cde1a45d.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/testmail/static/css/2.ae9f1eb3.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.fac456ee.chunk.js",
     "static/css/main.6778b5c8.chunk.css",
-    "static/js/main.5317469b.chunk.js"
+    "static/js/main.41d46c66.chunk.js"
   ]
 }
